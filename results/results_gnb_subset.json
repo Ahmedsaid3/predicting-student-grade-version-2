@@ -1,0 +1,6 @@
+{
+    "Model": "GaussianNB (Subset)",
+    "RMSE": 3.046,
+    "MAE": 2.351142857142857,
+    "Type": "SOTA Subset Evaluation"
+}

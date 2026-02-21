@@ -1,0 +1,11 @@
+{
+    "AdaBoostRegressor": {"n_estimators": 50, "learning_rate": 0.1},
+    "BaggingRegressor": {"n_estimators": 320},
+    "BayesianRidge": {"lambda_1": 0.001, "alpha_2": 0.001, "alpha_1": 1e-05, "lambda_2": 1e-07},
+    "GradientBoostingRegressor": {"learning_rate": 0.01, "loss": "huber", "n_estimators": 800, "max_depth": 3},
+    "Lasso": {"alpha": 1.0},
+    "RandomForestRegressor": {"n_estimators": 1600},
+    "Ridge": {"alpha": 1.0},
+    "SVR": {"C": 8.0, "kernel": "rbf", "epsilon": 0.1},
+    "MLPRegressor": {"hidden_layer_sizes": [100, 50], "activation": "relu", "solver": "adam"}
+}

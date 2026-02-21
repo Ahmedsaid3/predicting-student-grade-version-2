@@ -1,0 +1,6 @@
+{
+    "Model": "MultinomialNB (Subset)",
+    "RMSE": 3.111,
+    "MAE": 2.2114285714285713,
+    "Type": "SOTA Subset Evaluation"
+}

@@ -1,0 +1,6 @@
+{
+    "Model": "Mimis NN (Subset)",
+    "RMSE": 5.964714285714286,
+    "MAE": 4.632428571428571,
+    "Type": "SOTA Subset Evaluation"
+}

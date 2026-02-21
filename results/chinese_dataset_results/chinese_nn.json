@@ -1,0 +1,6 @@
+{
+    "chinese_nn": {
+        "WeightedAvgRMSE": 2.4958333333333336,
+        "WeightedAvgMAE": 2.282238095238095
+    }
+}
