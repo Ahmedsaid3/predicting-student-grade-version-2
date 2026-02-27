@@ -6,7 +6,7 @@ from sklearn.cluster import KMeans
 
 # Load and preprocess data
 print("Loading data...")
-df = pd.read_csv("../../datasets/ANHUI/processed_data.csv")
+df = pd.read_csv("datasets/ANHUI/processed_data.csv")
 df = pd.concat([df, pd.get_dummies(df['Department Code'], prefix='Department Code')], axis=1)
 # df.drop(['Department Code'], axis=1, inplace=True) # Check if this drop is needed, notebook did it.
 # Notebook line 276: df.drop(['Department Code'], axis=1, inplace=True)
