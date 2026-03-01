@@ -209,3 +209,6 @@ __marimo__/
 
 # datasets
 datasets/
+
+# ds_store
+.DS_Store

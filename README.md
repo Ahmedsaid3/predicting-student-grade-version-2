@@ -23,4 +23,5 @@
 
 ## Notes
 -- Mimis et al. Naive Bayes and Neural Network experiments are done on weka. Experiments with subset are not done yet on weka. Naive Bayes and Neural Network will be run on subset on weka. <br />
+-- Getting no fallback results for cf-ibrahimzada and cb-cakmak again may be necessary, after algorithm change the subset mask is also change. The relevant scripts are at the end of the relevant experiment files (experiments/cluster_model__collaborative_filtering__Student based with KMeans.ipynb and experiments/2017 paper.ipynb). <br />
 -- Since ANHUI dataset has a brand new algorithm, all of the experiments are out-dated hence we removed them. But they are still present in older version. <br />
