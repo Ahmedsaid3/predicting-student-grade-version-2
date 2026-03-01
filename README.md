@@ -1,24 +1,24 @@
 # predicting-student-grade-dev
 ## Figures
-Figure 2 (elbow method): experiments/cluster_model_collaborative_filtering_Student_based with KMeans.ipynb <br />
-Table 2 and 3 (hyperparameters): hyperparameters folder <br />
-Figure 3: preprocess folder <br />
-Figure 4 and 5: experiments/non-time series analysis.ipynb <br /> <br />
+**Figure 2 (elbow method):** experiments/cluster_model_collaborative_filtering_Student_based with KMeans.ipynb <br /> <br />
+**Table 2 and 3 (hyperparameters):** hyperparameters folder <br /> <br />
+**Figure 3:** preprocess folder <br /> <br />
+**Figure 4 and 5:** experiments/non-time series analysis.ipynb <br /> <br /> <br />
 
-Figure 6 and Figure 7 (Baseline): prediction of values, experiment and production of result json file on experiments/baseline_collaborative_filtering.ipynb and experiments/baseline_regression.ipynb <br />
-&emsp; &emsp; &emsp; &emsp;                       visualization and production of graph on visualization/comparisons.ipynb <br /> <br />
-Figure 8 and Figure 9 (Baseline with subset): prediction of values, experiment and production of result json file on experiments/baseline_collaborative_filtering.ipynb and experiments/baseline_regression.ipynb <br />
-&emsp; &emsp; &emsp; &emsp;                        visualization and production of graph on visualization/comparisons.ipynb <br /> <br />
-Figure 10 and Figure 11 (Student based): prediction of values, experiment and production of result json file on experiments/cluster_model_collaborative_filtering_Student_based with KMeans.ipynb <br />
-&emsp; &emsp; &emsp; &emsp;                         visualization and production of graph on visualization/comparisons.ipynb <br /> <br />
-Figure 12 and Figure 13 (Course based): prediction of values, experiment and production of result json file on experiments/cluster_model_collaborative_filtering_Course_based with KMeans.ipynb <br />
-&emsp; &emsp; &emsp; &emsp;                         visualization and production of graph on visualization/comparisons.ipynb <br /> <br />
+**Figure 6 and Figure 7 (Baseline):** prediction of values, experiment and production of result json file on experiments/baseline_collaborative_filtering.ipynb and experiments/baseline_regression.ipynb <br /> 
+&emsp; &emsp; &emsp; &emsp;                       visualization and production of graph on visualization/comparisons.ipynb <br /> <br /> <br />
+**Figure 8 and Figure 9 (Baseline with subset):** prediction of values, experiment and production of result json file on experiments/baseline_collaborative_filtering.ipynb and experiments/baseline_regression.ipynb <br /> <br />
+&emsp; &emsp; &emsp; &emsp;                        visualization and production of graph on visualization/comparisons.ipynb <br /> <br /> <br />
+**Figure 10 and Figure 11 (Student based):** prediction of values, experiment and production of result json file on experiments/cluster_model_collaborative_filtering_Student_based with KMeans.ipynb <br />
+&emsp; &emsp; &emsp; &emsp;                         visualization and production of graph on visualization/comparisons.ipynb <br /> <br /> <br />
+**Figure 12 and Figure 13 (Course based):** prediction of values, experiment and production of result json file on experiments/cluster_model_collaborative_filtering_Course_based with KMeans.ipynb <br />
+&emsp; &emsp; &emsp; &emsp;                         visualization and production of graph on visualization/comparisons.ipynb <br /> <br /> <br />
                          
-Figure 14 and Figure 15 (SOTA): at the bottom of visualization/comparisons.ipynb file <br /> <br />
+**Figure 14 and Figure 15 (SOTA):** at the bottom of visualization/comparisons.ipynb file <br /> <br /> <br />
 
 
 // Won't be used anymore <br />
-Figure 16 and 17 (Weighted SOTA): Since we no longer will use weighted average we remowed them but they are in visualizations/chinese_dataset_visualizations/comparisons_student_based.ipynb in older version <br />
+**Figure 16 and 17 (Weighted SOTA):** Since we no longer will use weighted average we remowed them but they are in visualizations/chinese_dataset_visualizations/comparisons_student_based.ipynb in older version <br /> <br />
 
 
 ## Notes
