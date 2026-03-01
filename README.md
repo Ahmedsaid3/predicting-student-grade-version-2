@@ -5,14 +5,14 @@
 **Figure 3:** preprocess folder <br /> <br />
 **Figure 4 and 5:** experiments/non-time series analysis.ipynb <br /> <br /> <br />
 
-**Figure 6 and Figure 7 (Baseline):** <br />  prediction of values, experiment and production of result json file on experiments/baseline_collaborative_filtering.ipynb and experiments/baseline_regression.ipynb <br /> 
-visualization and production of graph on visualization/comparisons.ipynb <br /> <br /> <br />
-**Figure 8 and Figure 9 (Baseline with subset):** <br />  prediction of values, experiment and production of result json file on experiments/baseline_collaborative_filtering.ipynb and experiments/baseline_regression.ipynb <br />
-visualization and production of graph on visualization/comparisons.ipynb <br /> <br /> <br />
-**Figure 10 and Figure 11 (Student based):** <br />  prediction of values, experiment and production of result json file on experiments/cluster_model_collaborative_filtering_Student_based with KMeans.ipynb <br />
-visualization and production of graph on visualization/comparisons.ipynb <br /> <br /> <br />
-**Figure 12 and Figure 13 (Course based):** <br />  prediction of values, experiment and production of result json file on experiments/cluster_model_collaborative_filtering_Course_based with KMeans.ipynb <br />
-visualization and production of graph on visualization/comparisons.ipynb <br /> <br /> <br />
+**Figure 6 and Figure 7 (Baseline):** <br /> -- prediction of values, experiment and production of result json file on experiments/baseline_collaborative_filtering.ipynb and experiments/baseline_regression.ipynb <br /> 
+-- visualization and production of graph on visualization/comparisons.ipynb <br /> <br /> <br />
+**Figure 8 and Figure 9 (Baseline with subset):** <br /> -- prediction of values, experiment and production of result json file on experiments/baseline_collaborative_filtering.ipynb and experiments/baseline_regression.ipynb <br />
+-- visualization and production of graph on visualization/comparisons.ipynb <br /> <br /> <br />
+**Figure 10 and Figure 11 (Student based):** <br /> -- prediction of values, experiment and production of result json file on experiments/cluster_model_collaborative_filtering_Student_based with KMeans.ipynb <br />
+-- visualization and production of graph on visualization/comparisons.ipynb <br /> <br /> <br />
+**Figure 12 and Figure 13 (Course based):** <br /> -- prediction of values, experiment and production of result json file on experiments/cluster_model_collaborative_filtering_Course_based with KMeans.ipynb <br />
+-- visualization and production of graph on visualization/comparisons.ipynb <br /> <br /> <br />
                          
 **Figure 14 and Figure 15 (SOTA):** at the bottom of visualization/comparisons.ipynb file <br /> <br /> <br />
 
